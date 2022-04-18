@@ -2,7 +2,7 @@
 
 :wave:
 
-Hi  I'm Christian a Data Scientist based in London.
+Hi  I'm Christian, a Data Scientist based in London.
 
 
 
