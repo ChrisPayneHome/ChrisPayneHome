@@ -4,7 +4,7 @@
 
 I'm Christian, a Data Scientist based in London working mostly in Python and R.
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPayneHome&hide=javascript,css,scss&theme=dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPayneHome&hide=javascript,css,scss&theme=transparent)
 
 Feel free to check out my socials:
 
